@@ -1,0 +1,7 @@
+C:\Users\d.heyoung.b\source\repos\final\task1\bin\Debug\task1.exe.config
+C:\Users\d.heyoung.b\source\repos\final\task1\bin\Debug\task1.exe
+C:\Users\d.heyoung.b\source\repos\final\task1\bin\Debug\task1.pdb
+C:\Users\d.heyoung.b\source\repos\final\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+C:\Users\d.heyoung.b\source\repos\final\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\d.heyoung.b\source\repos\final\task1\obj\Debug\task1.exe
+C:\Users\d.heyoung.b\source\repos\final\task1\obj\Debug\task1.pdb

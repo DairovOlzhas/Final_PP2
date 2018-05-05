@@ -1,0 +1,6 @@
+C:\Users\d.heyoung.b\source\repos\final\task2\bin\Debug\task2.exe.config
+C:\Users\d.heyoung.b\source\repos\final\task2\bin\Debug\task2.exe
+C:\Users\d.heyoung.b\source\repos\final\task2\bin\Debug\task2.pdb
+C:\Users\d.heyoung.b\source\repos\final\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\d.heyoung.b\source\repos\final\task2\obj\Debug\task2.exe
+C:\Users\d.heyoung.b\source\repos\final\task2\obj\Debug\task2.pdb

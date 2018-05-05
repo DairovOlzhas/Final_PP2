@@ -1,0 +1,10 @@
+c:\users\d.heyoung.b\source\repos\final1\task3\bin\Debug\task3.exe.config
+c:\users\d.heyoung.b\source\repos\final1\task3\bin\Debug\task3.exe
+c:\users\d.heyoung.b\source\repos\final1\task3\bin\Debug\task3.pdb
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.csprojResolveAssemblyReference.cache
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.Properties.Resources.resources
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.csproj.GenerateResource.Cache
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.exe
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.pdb
+c:\users\d.heyoung.b\source\repos\final1\task3\obj\Debug\task3.Form1.resources
